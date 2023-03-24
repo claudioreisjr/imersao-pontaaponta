@@ -9,7 +9,7 @@ Aula 1 - Criação do Back-end .Net<br>
 Aula 2 - Criação do Front-end Angular<br>
 Aula 3 - Azure - Deploy em Cloud<br>
 
-<Backend/><br>
+ &lt;Backend/><br>
 Crie uma nova aplicação .NET no Visual Studio Community 2022 e edite o arquivo da classe principal,<br>
 Program.cs (na linguagem C#), depois adicione uma nova classe, a minha se chama PortfolioContext.cs<br>
 que vai definir as configurações para fazer a conexão com o banco de dados, e altere o arquivo appsettings.json,<br>
